@@ -1,0 +1,15 @@
+.login {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: url("@/assets/zz.jpg") center center / cover;
+}
+
+.login-container {
+  padding: 2em;
+  box-shadow: 0 0 6px 4px #f1f1f181;
+}
